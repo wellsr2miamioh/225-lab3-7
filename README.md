@@ -1,2 +1,8 @@
-# Lab3-7...an extention of the html_example
-A simple HTML page to build for a CI/CD pipeline Example.  Deploys to a Development Environment with ClusterIP, then to a Production environment with LoadBalancer.  This step adds DAST via Dastardly. Add the Dastardly Gist to your Jenkinsfile and personalize.
+# 225lab3-7
+CI/CD pipeline Example.  Deploys to DEV with __ClusterIP and Ingress__, then to PROD with __LoadBalancer__.  This step adds DAST via DASTardly.
+
+1) Create a new blank repository in your GitHub account using the lab name above.
+2) Copy the URL of this repository and paste it into your repository.
+3) View each file, and make changes where it is commented.
+4) Run your pipeline.
+5) Demonstrate your changes to the code in your video, and show the resulting web page.
