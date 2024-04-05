@@ -1,4 +1,4 @@
-# 225lab3-7
+# 225-lab3-7
 CI/CD pipeline Example.  Deploys to DEV with __ClusterIP and Ingress__, then to PROD with __LoadBalancer__.  This step adds DAST via DASTardly.
 
 1) Create a new blank repository in your GitHub account using the lab name above.
